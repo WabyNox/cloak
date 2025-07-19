@@ -22,13 +22,6 @@ These scripts make it smooth, cool, and a bit sarcastic.
 - `systemctl`
 - A supported Wi-Fi adapter (like the ALFA)
 
-## Usage
-
-```bash
-chmod +x cloak.sh decloak.sh
-./cloak.sh     # Enter monitor mode
-./decloak.sh   # Go back to managed mode
-
 ## Roadmap
 
 This is just the beginning.
@@ -44,3 +37,12 @@ I plan to expand this micro-toolset over time with features like:
 
 If you're using this and have an idea, feel free to open an issue or PR.
 Otherwise, enjoy the magic and keep your packets stealthy.
+
+## Usage
+
+```bash
+chmod +x cloak.sh decloak.sh
+./cloak.sh     # Enter monitor mode
+./decloak.sh   # Go back to managed mode
+
+
